@@ -13,9 +13,9 @@ Another design choice was creating enums and classes for each Tetrominoes since 
 
 Upon starting the game, there are 3 panels you can view : the start, play, and game over screens in order.
 
-![Start Screen](https://github.com/VKong6019/Tetris/blob/master/resources/start-tetris.PNG?raw=true)
-![Play Screen](https://github.com/VKong6019/Tetris/blob/master/resources/play-screen.PNG?raw=true)
-![Game Over Screen](https://github.com/VKong6019/Tetris/blob/master/resources/gameover-screen.PNG?raw=true)
+![Start Screen](https://github.com/VKong6019/TetrisGame/blob/master/resources/start-tetris.PNG?raw=true)
+![Play Screen](https://github.com/VKong6019/TetrisGame/blob/master/resources/play-screen.PNG?raw=true)
+![Game Over Screen](https://github.com/VKong6019/TetrisGame/blob/master/resources/gameover-screen.PNG?raw=true)
 
 #### How To Start Up Tetris
 To play this Tetris game, you must download the jar file and the resource folder from the respository as the resource folder contain sounds and images displayed in the game.
