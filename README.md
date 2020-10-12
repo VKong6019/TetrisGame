@@ -23,15 +23,15 @@ To play this Tetris game, you must download the jar file and the resource folder
 
 #### There are a couple ways to start the game:
 
-**!!Note!!**: Might need Java 12 downloaded since I wrote this in Java 12 :P
+##### **!!Note!!**: Might need Java 12 downloaded since I wrote this in Java 12 :P
 
-The first is opening the jar file in the folder through the command line by inputting this line into the console:
+**The first** is opening the jar file in the folder through the command line by inputting this line into the console:
 ```console
 java -jar Tetris.jar
 ```
 Note: You must be in the folder to do this.
 
-The second is just simply navigate into the downloaded folder and double-click the ``Tetris.bat`` file.
+**The second** is just simply navigate into the downloaded folder and double-click the ``Tetris.bat`` file.
 
 #### How To Play Tetris
 The goal of the game is to complete as many lines (rows) as possible to score the highest amount of amounts. The game is over when a block overfills the board (the block cannot be completely fitted).
