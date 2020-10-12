@@ -21,7 +21,7 @@ Upon starting the game, there are 3 panels you can view : the start, play, and g
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #### How To Start Up Tetris
-To play this Tetris game, you must download the jar file and the resource folder from the respository as the resource folder contain sounds and images displayed in the game.
+To play this Tetris game, just `git clone` this repo.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #### There are a couple ways to start the game:
