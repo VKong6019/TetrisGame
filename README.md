@@ -29,7 +29,7 @@ java -jar Tetris.jar
 ```
 Note: You must be in the folder to do this.
 
-The second is just simply navigate into the downloaded folder and double-click the ``Tetris.jar`` file.
+The second is just simply navigate into the downloaded folder and double-click the ``Tetris.bat`` file.
 
 #### How To Play Tetris
 The goal of the game is to complete as many lines (rows) as possible to score the highest amount of amounts. The game is over when a block overfills the board (the block cannot be completely fitted).
