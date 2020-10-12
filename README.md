@@ -23,6 +23,8 @@ To play this Tetris game, you must download the jar file and the resource folder
 
 #### There are a couple ways to start the game:
 
+**!!Note!!**: Might need Java 12 downloaded since I wrote this in Java 12 :P
+
 The first is opening the jar file in the folder through the command line by inputting this line into the console:
 ```console
 java -jar Tetris.jar
